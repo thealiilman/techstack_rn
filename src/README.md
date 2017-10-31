@@ -1,1 +1,2 @@
-The components of my React Native app
+# House of Files
+This is where the components, reducers and actions live.
