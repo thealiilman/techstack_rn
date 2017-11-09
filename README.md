@@ -7,8 +7,8 @@ How to run:<br />
 ### Install Redux<br/>
 `npm install --save redux@3.7.2`<br/>
 ### Install React-Redux
-`npm install --save react-redux@5.0.6`<br/>
-Place these files into the folder<br/>
+`npm install --save react-redux@5.0.6`<br/><br/>
+Place the files in this repository into the folder<br/>
 Then:<br/>
 `react-native run-android` - Android<br/>
 `react-native run-ios` - iOS<br/>
